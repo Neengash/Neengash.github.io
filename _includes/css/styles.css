@@ -1,4 +1,5 @@
 @media(min-width:767px) {
+    .study,
     .jobPosition {
         display: flex;
         align-items: center;

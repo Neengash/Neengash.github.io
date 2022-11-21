@@ -1,0 +1,22 @@
+- title: Computer Engineering Bachelor's Degree
+  period: 2011-2015
+  img: "img/studies/uib.png"
+  img-alt: uib
+  center: UIB
+- title: Video game and virtual reality development with Unity 3D
+  period: 2019-2021
+  img: "img/studies/tokioSchool.jpg"
+  img-alt: tokio school
+  center: Tokio School
+  inverted: true
+- title: Video game design
+  period: 2019-2021
+  img: "img/studies/tokioSchool.jpg"
+  img-alt: tokio school
+  center: Tokio School
+- title: Master's degree in Teacher Training
+  period: 2020-2021
+  img: "img/studies/uib.png"
+  img-alt: uib
+  center: UIB
+  inverted: true

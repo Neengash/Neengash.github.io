@@ -1,0 +1,43 @@
+<!-- Studies Section -->
+    <section id="studies">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Studies</h2>
+                    <h3 class="section-subheading text-muted">
+                        Apart from lots and lots of online courses about lots of different topics<br>
+                        (mainly: computer science, art, psicology, video games, board games)<br>
+                        Those are my main studies:
+                    </h3>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <ul class="timeline">
+                        {% for study in site.data.studies %}
+                            <li class="study{% if study.inverted %} timeline-inverted{% endif %}">
+                                <div class="timeline-image">
+                                    <img class="img-circle img-responsive" src="{{ study.img }}" alt="{{ study.img-alt }}">
+                                </div>
+                                <div class="timeline-panel">
+                                    <div class="timeline-heading">
+                                        <h4>{{ study.period }}</h4>
+                                        <h4 class="subheading">{{ study.title }}</h4>
+                                    </div>
+                                    <div class="timeline-body">
+                                        <p class="text-muted">{{ study.center }}</p>
+                                    </div>
+                                </div>
+                            </li>
+                        {% endfor %}
+                        <li class="timeline-inverted">
+                            <div class="timeline-image">
+                                <h4>Always<br>
+                                    Learning!</h4>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
