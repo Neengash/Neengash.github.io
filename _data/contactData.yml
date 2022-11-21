@@ -1,0 +1,28 @@
+- title: Github (Neengash)
+  icon: github
+  iconClass: -brands
+  url: https://github.com/Neengash
+- title: Github (G4M30V3R-T34M)
+  icon: github
+  iconClass: -brands
+  url: https://github.com/G4M30V3R-T34M
+- title: Instagram (@Neengash)
+  icon: instagram
+  iconClass: -brands
+  url: https://www.instagram.com/neengash/
+- title: Twitter (@Neengash)
+  icon: twitter
+  iconClass: -brands
+  url: https://twitter.com/neengash
+- title: Itch.io (@Neengash)
+  icon: itch-io
+  iconClass: -brands
+  url: https://neengash.itch.io/
+- title: Google Play (@Neengash)
+  icon: google-play
+  iconClass: -brands
+  url: https://play.google.com/store/apps/developer?id=Neengash
+- title: pepmanas93@gmail.com 
+  icon: envelope
+  iconClass: -regular
+  url: "mailto: pepmanas93@gmail.com"

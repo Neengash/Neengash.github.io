@@ -1,0 +1,23 @@
+<!-- Find Me Section -->
+    <section id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Contact</h2>
+                    <h3 class="section-subheading text-muted">That's my online presence, feel free to look around</h3>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-12 col-md-6">
+                    <img src="img/pepmanas.jpg" class="img-responsive img-circle" alt="">
+                </div>
+                <div class="col-sm-12 col-md-6">
+                    <ul class="fa-2x">
+                        {% for network in site.data.contactData %}
+                            <li> <a href="{{ network.url }}"> <i class="fa{{ network.iconClass }} fa-{{ network.icon }}"></i> {{ network.title }}</a> </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
