@@ -1,0 +1,14 @@
+---
+title: Meow of Cat'hulhu
+subtitle: Videogame
+layout: default
+modal-id: 4
+img: cathulhu.png
+thumbnail: cathulhu-thumbnail.png
+alt: meow of cathulhu
+description: 
+downloads:
+-   title: itch.io
+    img: itchio.png
+    url: https://xubecgames.itch.io/the-meow-of-cathulhu
+---
