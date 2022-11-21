@@ -1,0 +1,12 @@
+@media(min-width:767px) {
+    .jobPosition {
+        display: flex;
+        align-items: center;
+    }
+
+    .timeline>li.timeline-inverted>.timeline-panel {
+        position:absolute;
+        right: 0;
+    }
+
+}
