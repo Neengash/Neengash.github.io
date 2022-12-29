@@ -1,6 +1,6 @@
 ---
 title: Meow of Cat'hulhu
-subtitle: Videogame
+subtitle: Videogame - Game Jam
 layout: default
 modal-id: 4
 img: cathulhu.png

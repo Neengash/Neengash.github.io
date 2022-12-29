@@ -1,6 +1,6 @@
 ---
 title: Invisible Path
-subtitle: Videogame
+subtitle: Videogame - Game Jam
 layout: default
 modal-id: 7
 img: invisiblepath.png
