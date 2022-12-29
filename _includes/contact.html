@@ -8,13 +8,13 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-sm-12 col-md-6">
+                <div class="col-sm-12 col-md-6 img-center">
                     <img src="img/pepmanas.jpg" class="img-responsive img-circle" alt="">
                 </div>
-                <div class="col-sm-12 col-md-6">
+                <div class="col-sm-12 col-md-6 text-center">
                     <ul class="fa-2x">
                         {% for network in site.data.contactData %}
-                            <li> <a href="{{ network.url }}"> <i class="fa{{ network.iconClass }} fa-{{ network.icon }}"></i> {{ network.title }}</a> </li>
+                            <li class="social"> <a href="{{ network.url }}"> <i class="fa{{ network.iconClass }} fa-{{ network.icon }}"></i> {{ network.title }}</a> </li>
                         {% endfor %}
                     </ul>
                 </div>
