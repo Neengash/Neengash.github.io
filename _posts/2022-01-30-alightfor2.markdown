@@ -7,6 +7,11 @@ img: alightfor2.png
 thumbnail: alightfor2-thumbnail.png
 alt: a light for 2
 description: 
+    Game made for the GGJ 2022. Theme "duality".
+    Cooperative asymetric game for 2 players.
+    Fight the native aliens, collect the resources and get out of the planet.
+description2:
+    Made by members of G4M30V3R-T34M (Dciero, XubecGames, Neengash)
 downloads:
 -   title: itch.io
     img: itchio.png

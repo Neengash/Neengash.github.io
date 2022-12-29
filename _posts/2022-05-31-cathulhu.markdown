@@ -7,6 +7,11 @@ img: cathulhu.png
 thumbnail: cathulhu-thumbnail.png
 alt: meow of cathulhu
 description: 
+    Game made for the "GameDev.tv Game Jam" 2022. theme "Death is only the beginning".
+    Solo player game with exploration and investigation.
+    Collect all evidences, fight the sectarians and stop the ritual.
+description2:
+    Made by members of G4M30V3R-T34M (XubecGames, Neengash)
 downloads:
 -   title: itch.io
     img: itchio.png

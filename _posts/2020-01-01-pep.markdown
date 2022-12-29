@@ -6,5 +6,11 @@ modal-id: 5
 img: pep.jpg
 thumbnail: pep-thumbnail.png
 alt: pep
-description: 
+description:
+    Easy to learn and play board game for 3 to 5 players.
+    Players asume the role of a pig (porc) and try to get the best food for themselves.
+    After a total of 3 eating events, the 2nd player with the most points is the winner.
+description2:
+    Design by "Neengash" // 
+    Art by "Dciero"
 ---
