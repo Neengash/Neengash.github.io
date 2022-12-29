@@ -2,22 +2,27 @@ jobPositions:
   - title: habitissimo
     img: "img/jobExperience/habitissimo.png"
     img-alt: "habitissimo"
-    period: 2015-2018
+    period: nov.2015 - sep.2018
     description: Backend Web Developer
   - title: Limit Tecnologies
     img: "img/jobExperience/limit.jpg"
     img-alt: "limit tecnologies"
-    period: 2019
+    period: apr.2019 - jul.2019
     description: Web Developer
     inverted: true
   - title: TravelgateX
     img: "img/jobExperience/travelgateX.jpg"
     img-alt: "travelgateX"
-    period: 2019-2020
+    period: jul.2019 - jan.2020
     description: Integrations Engineer
   - title: Conselleria d'Educació
     img: "img/jobExperience/conselleria.png"
     img-alt: "conselleria educació"
-    period: 2021-2022
+    period: nov.2021 - jun.2022
     description: Vocational Education Teacher
     inverted: true
+  - title: DiCampus
+    img: "img/jobExperience/dicampus.png"
+    img-alt: "dicampus"
+    period: nov.2022 - dec.2022
+    description: IT Teacher
