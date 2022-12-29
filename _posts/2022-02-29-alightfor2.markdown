@@ -1,0 +1,14 @@
+---
+title: A Light For 2
+subtitle: Videogame - Game Jam
+layout: default
+modal-id: 9
+img: alightfor2.png
+thumbnail: alightfor2-thumbnail.png
+alt: a light for 2
+description: 
+downloads:
+-   title: itch.io
+    img: itchio.png
+    url: https://xubecgames.itch.io/a-light-for-two
+---
