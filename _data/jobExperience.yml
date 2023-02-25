@@ -14,7 +14,7 @@ jobPositions:
     img: "img/jobExperience/travelgateX.jpg"
     img-alt: "travelgateX"
     period: jul.2019 - jan.2020
-    description: Integrations Engineer
+    description: Software Engineer
   - title: Conselleria d'Educació
     img: "img/jobExperience/conselleria.png"
     img-alt: "conselleria educació"
@@ -24,5 +24,10 @@ jobPositions:
   - title: DiCampus
     img: "img/jobExperience/dicampus.png"
     img-alt: "dicampus"
-    period: nov.2022 - dec.2022
+    period: nov.2022 - jan.2022
     description: IT Teacher
+  - title: TravelgateX
+    img: "img/jobExperience/travelgateX.jpg"
+    img-alt: "travelgateX"
+    period: feb.2023 - now
+    description: Software Engineer
