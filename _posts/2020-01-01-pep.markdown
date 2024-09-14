@@ -1,5 +1,5 @@
 ---
-title: P.E.P.
+title: P.E.P. (Porc Entre Porcs)
 subtitle: Board Game
 layout: default
 modal-id: 5
@@ -13,4 +13,8 @@ description:
 description2:
     Design by "Neengash" // 
     Art by "Dciero"
+downloads:
+-   title: Board Game Geek
+    img: boardgamegeek.png
+    url: https://boardgamegeek.com/boardgame/419019/pep-porc-entre-porcs
 ---
