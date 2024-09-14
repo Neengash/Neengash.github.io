@@ -1,0 +1,19 @@
+---
+title: Last Rent
+subtitle: Videogame - Game Jam
+layout: default
+modal-id: 13
+img: last-rent.png
+thumbnail: last-rent-thumbnail.png
+alt: last rent
+description: 
+    Game for the "Gamedev.tv Game Jam 2024". Theme "Last Stand".
+    Single player survival - resource management.
+    You try and survive as a young adult in a city.
+description2:
+    Made by members of G4M30V3R-T34M (XubecGames, Neengash)
+downloads:
+-   title: itch.io
+    img: itchio.png
+    url: https://xubecgames.itch.io/last-rent
+---
