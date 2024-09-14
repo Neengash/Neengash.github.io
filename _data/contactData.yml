@@ -2,10 +2,6 @@
   icon: github
   iconClass: -brands
   url: https://github.com/Neengash
-- title: Github (G4M30V3R-T34M)
-  icon: github
-  iconClass: -brands
-  url: https://github.com/G4M30V3R-T34M
 - title: Instagram (@Neengash)
   icon: instagram
   iconClass: -brands
@@ -26,3 +22,11 @@
   icon: envelope
   iconClass: -regular
   url: "mailto: pepmanas93@gmail.com"
+- title: G4M30V3R T34M
+  icon: github
+  iconClass: -brands
+  url: https://github.com/G4M30V3R-T34M
+- title: Talajocs
+  icon: instagram
+  iconClass: -brands
+  url: https://www.instagram.com/talajocs/
