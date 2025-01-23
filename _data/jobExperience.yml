@@ -29,5 +29,17 @@ jobPositions:
   - title: TravelgateX
     img: "img/jobExperience/travelgateX.jpg"
     img-alt: "travelgateX"
-    period: feb.2023 - now
+    period: feb.2023 - dec.2024
     description: Software Engineer
+    inverted: true
+  - title: Edib
+    img: "img/jobExperience/edib.png"
+    img-alt: "edib"
+    period: "sep.2025 - dec.2024"
+    description: Vocational Education Teacher
+  - title: Corvus Belli
+    img: "img/jobExperience/corvus.png"
+    img-alt: "corvus belli"
+    period: jan.2025 - now
+    description: Game Designer
+    inverted: true
